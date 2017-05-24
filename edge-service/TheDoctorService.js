@@ -127,7 +127,7 @@ var html = `
         <h1>The Doctor</h1>
         <h3>Timelord</h3>
         <p class="bio">
-          <p>What?</p>
+          <p>HolaJordiKace</p>
           <p>$edgeIdentity</p>
         </p>
       </div>
