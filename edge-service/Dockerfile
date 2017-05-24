@@ -4,4 +4,4 @@ COPY TheDoctorService.js .
 
 EXPOSE 80
 
-CMD ["node", "TheDoctorService.js"]
+CMD ["node", "TheDoctorService.js", "Hola Jordi"]
